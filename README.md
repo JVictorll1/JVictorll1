@@ -1,9 +1,8 @@
 ### Olá! Me chamo Victor Lima 👋
 
-- 🔭 Front-end e Web Design
+- 🔭 Aspirante no Desenvolvimento de Aplicações com Javascript!
 - 🌱 Estudando React Native
-- 🌘 Entusiasta do Desenvolvimento de Games com Lua
-- ⚡ Projetos Freelancer bem organizados e padronizados
+- 🌘 Entusiasta do Desenvolvimento de Games com Linguagem Lua
 
 ##
 
