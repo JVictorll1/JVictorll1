@@ -1,7 +1,7 @@
 ### Olá! Me chamo Victor Lima 👋
 
-- 🔭 Aspirante no Desenvolvimento de Aplicações com Javascript!
-- 🌱 Estudando React Native
+- 🔭 Aspirante no Desenvolvimento de Softwares com PHP e C#
+- 🌱 Estudando Ciência de Dados com Python e Power BI
 - 🌘 Entusiasta do Desenvolvimento de Games com Linguagem Lua
 
 ##
