@@ -1,7 +1,7 @@
 ### Olá! Me chamo Victor Lima 👋
 
 - 🔭 Aspirante no Desenvolvimento de Softwares com PHP e C#
-- 🌱 Estudando Ciência de Dados com Python e Power BI
+- 🌱 Estudando Ciência de Dados com Power BI
 - 🌘 Entusiasta do Desenvolvimento de Games com Linguagem Lua
 
 ##
@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Victor-Php" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
