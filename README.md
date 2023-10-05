@@ -1,7 +1,6 @@
 ### Olá! Me chamo Victor Lima 👋
 
 - 🔭 Aspirante no Desenvolvimento de Softwares com PHP e C#
-- 🌱 Estudando Ciência de Dados com Power BI
 - 🌘 Entusiasta do Desenvolvimento de Games com Linguagem Lua
 
 ##
