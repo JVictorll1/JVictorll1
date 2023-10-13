@@ -14,6 +14,7 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Materialize" height="30" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9">
   <img align="center" alt="Victor-Php" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
+  <img align="center" alt="Victor-Php" height="30" width="40" src="https://skillicons.dev/icons?i=js,html,css,wasm">
 </div>
 
 ##
