@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Materialize" height="30" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,lua">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,lua,materialize">
 </div>
 
 ##
