@@ -8,8 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVictorll1&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictorll1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9">
+<div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=js,html,css,php,lua,materialize">
 </div>
 
