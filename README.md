@@ -1,6 +1,6 @@
 ### Olá! Me chamo Victor Lima 👋
 
-- 🔭 Aspirante no Desenvolvimento de Softwares com PHP e C#
+- 🔭 Aspirante no Desenvolvimento de Softwares com PHP
 - 🌘 Entusiasta do Desenvolvimento de Games com Linguagem Lua
 
 ##
