@@ -15,7 +15,7 @@
   <img align="center" alt="Victor-Php" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   
 </div>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)
 ##
 
 <div> 
