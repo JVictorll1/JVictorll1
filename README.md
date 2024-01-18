@@ -1,6 +1,6 @@
 ### Olá! Me chamo Victor Lima 👋
 
-- 🐍 Internet das Coisas com Python
+- 🌐 Desenvolvimento Web com PHP
 - 🌘 Entusiasta do Desenvolvimento de Games com Lua
 
 ##
