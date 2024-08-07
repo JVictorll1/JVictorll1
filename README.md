@@ -1,6 +1,6 @@
 ### Olá! Me chamo Victor Lima 👋
 
-- 🌐 Desenvolvimento de aplicações com Python
+- 🌐 Desenvolvimento Back End com Java
 - 🌘 Entusiasta do Desenvolvimento de Games com Lua
 
 ##
@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictorll1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=python,lua,js,html,css">
+  <img src="https://skillicons.dev/icons?i=java,lua,js,html,css">
 </div>
 
 ##
